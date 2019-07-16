@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GaboVApp</string>
+    <string-array name="Spinna">
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Otros</item>
+    </string-array>
+</resources>
